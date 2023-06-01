@@ -1,0 +1,23 @@
+body{
+    height: 100%;
+    font-size: 21px;
+    background-color: rgb(31, 31, 31);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+*{
+    text-align: center;
+    margin: 0;
+    
+}
+
+h1, h2, p{
+    margin: 0.5rem;
+    color: white;
+}
+#jeuxRea{
+    text-align: left;
+    font-size: 0.9rem;
+    resize: none;
+    border-radius: 10px;
+}
